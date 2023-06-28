@@ -4,12 +4,15 @@
  Scrivi un algoritmo per trovare il più grande tra due numeri interi.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/*  
 let num1 = 1
 let num2 = 10
 let result
 
 console.log(num1<num2)
+
+*/
+
 
 
 /*
@@ -25,7 +28,7 @@ ESERCIZIO 2
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-// let Num = 3
+/* let Num = 3
 
 if (Num <5) {
   console.log("Tiny")
@@ -43,6 +46,7 @@ else if (Num >=20) {
   console.log("Huge")
 }
 
+*/
 
 
 //ESERCIZI SUI CICLI: 
@@ -85,13 +89,32 @@ for (let i = 0; i <=15; i++) {
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+let x=10;
+let y=2;
+for (let i=0; i<=8; i++) {
+if (i=8) {
+ console.log(i=8);
+}
+ else {
+  console.log(i=x-y);
+ }
+
+}
+
+
+
 /* ESERCIZIO EXTRA 2
 Stai lavorando su un sito di e-commerce. Stai salvando il saldo totale del carrello dell'utente in una variabile "totalShoppingCart".
 C'è una promozione in corso: se il totale del carrello supera 50, l'utente ha diritto alla spedizione gratuita (altrimenti la spedizione ha un costo fisso pari a 10).
 Crea un algoritmo che determini l'ammontare totale che deve essere addebitato all'utente per il checkout.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+totalShoppingCart= 100
+
+
+
+*/
 
 /* ESERCIZIO EXTRA 3
   Oggi è il Black Friday e viene applicato il 20% su ogni prodotto.
